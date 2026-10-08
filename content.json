@@ -1,0 +1,77 @@
+{
+  "siteTitle": "Eduardo & Vittoria",
+  "banner": {
+    "title": "Eduardo\n&Vittoria",
+    "description": "We are getting married on 31 October 2026, and we want you there!"
+  },
+  "announcement": {
+    "title": "We are getting married!",
+    "description": "We are thrilled to announce that we are getting married on 31 October 2026! And we want you to be part of our special day. Your presence will make our celebration even more memorable, and we can't wait to share this joyous occasion with you.\n\nDressing code: elegant!"
+  },
+  "ceremony": {
+    "title": "Ceremony",
+    "description": "The wedding ceremony will take place at Mairie du 1er Arrondissement de Lyon, located at 2 Pl. Sathonay, 69001 Lyon. The ceremony will start at 11:00 AM, and we kindly ask you to arrive on time to witness this special moment with us."
+  },
+  "apero": {
+    "title": "Aperó",
+    "description": "Right after the amazing wedding ceremony, we all are going to walk a few methers to the aperó, where we will have a few drinks and some snacks to celebrate this special day together. It will be at Chez Marti, located at Pl. Gabriel Rambaud, 69001 Lyon."
+  },
+  "party": {
+    "title": "Party",
+    "description": "After the aperó, we will have a party to celebrate this special day together. We will have a lot of fun, music, and dancing. We can't wait to see you there! It will be at Domain d'Ile Barbe, located at 1 Pl. Henri Barbusse, 69009 Lyon. The party starts at 17:30 PM and goes until the last person stop to dance!"
+  },
+  "practicalInformation": {
+    "title": "Pratical Informations",
+    "items": [
+      "No Rice, No Petals: Throwing rice or flowers outside the Mairie is forbidden. Don't worry, we’ll provide soap bubbles so you can still pelt us safely!",
+      "Parking Roulette: There are 15 parking spots available directly at Domaine Île Barbe. First come, first served!",
+      "Dress Code Reminder: No Halloween costumes allowed (cough, cough, Irene and Felipo ;) ). We want to see your elegant side, not your spooky side!",
+      "Weather Check: Bring an umbrella. We want tears of joy, not soaked suits!"
+    ]
+  },
+  "activities": {
+    "title": "What to do?",
+    "description": "From around 1pm till the starting of the party there are no specific activities planned. So feel free to explore the surroundings and enjoy the atmosphere! Next, are some suggestions:",
+    "oldlyon": {
+      "title": "Vieux Lyon and Fourvière Hill",
+      "description": "Wander through the picturesque Renaissance streets of Vieux Lyon, then wander up toward the hidden panoramic lookout at Jardin des Curiosités. Soak in the history at the ancient Théâtre Romain before making your way to the top at Fourvière for unbeatable city views!\n\nPro tip: there is a funicular if you want to skip the climb :D!"
+    },
+    "confluence": {
+      "title": "TLC Boat to Confluence & Museum",
+      "description": "Hop aboard the TCL Vaporetto boat for a relaxing ride down the river into Lyon's sleek modern district, Confluence. Drop by the impressive Musée des Confluences to check out its futuristic architecture and world-class science and history exhibits right at the point where the two rivers meet!\n\nPro tip: Grab a seat on the boat's outdoor deck for the best views of the waterfront along the way!"
+    },
+    "bienal": {
+      "title": "Lyon Contemporary Art Biennale",
+      "description": "Dive into contemporary art with tours and workshops at the Biennale de Lyon! Explore massive installations inside the former railway yards at Les Grandes Locos and check out cutting-edge exhibitions over at macLYON."
+    },
+    "belasartes": {
+      "title": "Musée des Beaux-Arts de Lyon",
+      "description": "Explore centuries of fine art at the Musée des Beaux-Arts de Lyon, housed in a stunning 17th-century Benedictine abbey. Wander through world-class collections of paintings, sculptures, and antiquities overlooking the lively Place des Terreaux, and make sure to take a quiet break in the museum's peaceful sculpture garden at Palais Saint-Pierre."
+    },
+    "quais": {
+      "title": "Walk along the Rhône & Saône Rivers",
+      "description": "If it's sunny, take a relaxing walk or ride a bike along the water! Check out the chill grass spots and riverboat cafes along the Berges du Rhône, or head over to the Rives de Saône for amazing views of Old Lyon and the famous Fourvière Church."
+    },
+    "ilebarbe": {
+      "title": "Explore Île Barbe",
+      "description": "Before joining us for drinks, take a quick walk around Île Barbe! This quiet little island right in the middle of the Saône River is packed with history, ancient stone buildings, and the old Eglise Notre-Dame. It’s right across from our party venue, making it the perfect spot for a peaceful stroll right before the party starts!"
+    }
+  },
+  "restaurantsAndBars": {
+    "title": "Restaurants and Bars",
+    "description": "If you arrive before the wedding day, or stay longer for the weekend, there are many great restaurants and bars in Lyon to explore. Here are a few that we like!\n\n(sorry, it is a link for a google doc, because it is easier to update)"
+  },
+  "songSuggestions": {
+    "title": "Song Suggestions",
+    "description": "We want to play traditional wedding songs from every nationality represented by our guests! Send us a private message with your favorite song suggestions so we can add them to our DJ's playlist."
+  },
+  "gifts": {
+    "title": "Gifts",
+    "description": "Having you with us on our special day is all we truly wish for. If you would still like to send a gift, you can make a contribution here\nIBAN: **** **** ****"
+  },
+  "farewell": {
+    "title": "See You Soon!",
+    "description": "Get ready for a day full of love, laughter, and dancing. We can't wait to see you there!\n\nContact:\n+33 6 95 70 38 23 (edu)\n+39 346 881 8332 (vi)"
+  },
+  "copyright": "© Untitled. Design: edummend using HTML5 UP"
+}
