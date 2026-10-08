@@ -2820,6 +2820,11 @@ button:disabled,
   #page-wrapper {
     height: auto;
     padding: 1rem;
+    height: auto;
+    width: 100%;
+    min-width: 0;
+    max-width: 100%;
+    padding: 1rem;
   }
 }
 @media screen and (max-width: 480px) {
@@ -2897,6 +2902,8 @@ body.is-preload #wrapper {
     height: auto;
     margin: 0 0 5rem 0;
     box-shadow: 0 0.25rem 1.5rem 0.25rem rgba(46, 24, 0, 0.5);
+    min-width: 0;
+    max-width: 100%;
   }
   #wrapper > .scrollZone {
     display: none;
